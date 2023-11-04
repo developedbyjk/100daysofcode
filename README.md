@@ -12,3 +12,9 @@
 - 🎨 Worked on figma design
 - 🛠️ Did some css Flex Box
 - ⚙️ Backend
+
+👨‍💻Day 3 :
+
+- 🎨 Worked on project Design
+- 🛠️ Had fun converting JS to React⚛️
+- 🧠 Solve 2 JS Problem
