@@ -18,3 +18,11 @@
 - 🎨 Worked on project Design
 - 🛠️ Had fun converting JS to React⚛️
 - 🧠 Solve 2 JS Problem
+
+
+👨‍💻Day 4 :
+
+- 🧠 Solve JS Problems
+- 🦚 Did some designs 
+- 💵 Created a `TimeIsMoney` Project
+  link : mytimeismoney.netlify.app
