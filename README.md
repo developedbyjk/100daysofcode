@@ -27,8 +27,14 @@
 - 💵 Created a `TimeIsMoney` Project
   link : mytimeismoney.netlify.app
 
-  👨‍💻Day 5 :
+👨‍💻Day 5 :
 
 - 📸 added more feature on ig clone
 - 💡 solve some coding stuff 
-- 🤖 learned prompting 
+- 🤖 learned prompting
+
+👨‍💻Day 6 :
+
+
+- 🧠 Solve Javascript challenges  
+- 🌱 Learned about callback 
