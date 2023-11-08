@@ -35,6 +35,6 @@
 
 👨‍💻Day 6 :
 
-
 - 🧠 Solve Javascript challenges  
-- 🌱 Learned about callback 
+- 🌱 Learned about callback
+- 📸 worked with apis in projects
