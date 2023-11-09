@@ -38,3 +38,10 @@
 - 🧠 Solve Javascript challenges  
 - 🌱 Learned about callback
 - 📸 worked with apis in projects
+
+👨‍💻Day 7 :
+
+- 🤖 Learned about github copiolet
+- 🌳 Worked on Project
+- 📕 JS async await and react  
+- 
