@@ -44,4 +44,9 @@
 - 🤖 Learned about github copiolet
 - 🌳 Worked on Project
 - 📕 JS async await and react  
-- 
+
+👨‍💻Day 8 :
+
+- ⚛️ Converted JS to react
+- 🏆 Worked on Project
+- 🗄️ Learned about Database  
