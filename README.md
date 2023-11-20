@@ -1,7 +1,6 @@
 
 # 100daysofcode
 ---
-
 👨‍💻Day 1 :
 
 - 🎯 Solved 5 JS Challenge
