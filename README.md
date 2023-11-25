@@ -66,6 +66,12 @@
 - 📂 created module 
 - 📽️ Watch some code content
 
+  👨‍💻Day 11 :
 
----Celebrating 10 Days of code---
+- ⚙️ Worked with API
+- 📂 created a PROJECT in #react 
+- 💪 Did Some Coding Challenge 
+
+
+
 
