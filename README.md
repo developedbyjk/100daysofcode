@@ -1,7 +1,6 @@
 
- 
 # 100daysofcode
----
+
 👨‍💻Day 1 :
 
 - 🎯 Solved 5 JS Challenge
@@ -65,11 +64,19 @@
 - 📂 created module 
 - 📽️ Watch some code content
 
-  👨‍💻Day 11 :
+
+👨‍💻Day 11 :
 
 - ⚙️ Worked with API
 - 📂 created a PROJECT in #react 
-- 💪 Did Some Coding Challenge 
+- 💪 Did Some Coding Challenge
+- 
+
+👨‍💻Day 12 :
+
+- ✨ Worked with Design
+- 📂 created a PROJECT 
+- ⚛️ Did Some React Challenge 
 
 
 
