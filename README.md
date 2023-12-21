@@ -86,7 +86,13 @@
 
 - 📁 Worked on lil Project
 - 🗣️ Wrote Explanation of Code
-- ⚛️  React Challenge With Form and State 
+- ⚛️  React Challenge With Form and State
+
+👨‍💻Day 14 :
+
+🍀 Worked with Node JS
+🛠️ Did some React
+📺 Watch some code content
 
 
 
