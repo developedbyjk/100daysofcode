@@ -88,16 +88,16 @@
 
 👨‍💻Day 14 :
 
-🍀 Worked with Node JS
-🛠️ Did some React
-📺 Watch some code content
+- 🍀 Worked with Node JS
+- ⚛️ Did some React
+- 📺 Watch some code content
 
 
 👨‍💻Day 15 :
 
-🍀 Learned Node JS
-🛠️ Node Js with Express
-🏗️ Solved Some examples
+- 🍀 Learned Node JS
+- 🛠️ Node Js with Express
+- 🏗️ Solved Some examples
 
 
 👨‍💻Day 16 :
