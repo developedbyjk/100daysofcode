@@ -105,7 +105,13 @@
 
 - 📁 Worked on  Project
 - 🔐 Authentication with node js
-- ⚛️ React Challenge 
+- ⚛️ React Challenge
+
+👨‍💻Day 17  
+
+- 📁 Did Database
+- 🖥️ Compute Concepts
+- 🗣️ More Database
 
 
 
