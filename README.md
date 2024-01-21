@@ -113,6 +113,12 @@
 - 🖥️ Compute Concepts
 - 🗣️ More Database
 
+👨‍💻Day 18  
+
+- 🔐 NodeJs Authenticaiton  
+- ⚙️ API With NodeJS 
+- 📩 Learned about Postman
+
 
 
 
