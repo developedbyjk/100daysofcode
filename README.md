@@ -1,8 +1,6 @@
 
 # 100daysofcode
 
-
-
 👨‍💻Day 1 :
 
 - 🎯 Solved 5 JS Challenge
@@ -119,6 +117,12 @@
 - 🔐 NodeJs Authenticaiton  
 - ⚙️ API With NodeJS 
 - 📩 Learned about Postman
+
+👨‍💻Day 19 
+
+- 🐘 Project in PHP 
+- 🪮 Did some SQL Queries  
+- 📂 Database 
 
 
 
