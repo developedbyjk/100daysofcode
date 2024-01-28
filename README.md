@@ -126,7 +126,7 @@
 
 👨‍💻Day 20 
 
-- 🔐 Authenticaiton with NodeJS
+- 🔐 Authentication with NodeJS
 - ⚙️ APIs and Routes with Node JS
 - 👩‍🚀 Testing APIs with Postman
 
