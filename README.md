@@ -122,7 +122,13 @@
 
 - 🐘 Project in PHP 
 - 🪮 Did some SQL Queries  
-- 📂 Database 
+- 📂 Database
+
+👨‍💻Day 20 
+
+- 🔐 Authenticaiton with NodeJS
+- ⚙️ APIs and Routes with Node JS
+- 👩‍🚀 Testing APIs with Postman
 
 
 
