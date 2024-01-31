@@ -130,6 +130,13 @@
 - ⚙️ APIs and Routes with Node JS
 - 👩‍🚀 Testing APIs with Postman
 
+👨‍💻Day 21 
+
+- 🔐 Server management  with NodeJS
+- 📂 Deployment of Server on Render
+- 👩‍🚀  APIs with Postman
+
+
 
 
 
