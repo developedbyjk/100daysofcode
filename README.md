@@ -25,3 +25,14 @@
 - 🌍 Implemented Geolocation API in Project 
 - 🔗 Link to Project : https://whereiam.netlify.app/
 
+### 🧑‍💻 Day 5 
+
+- Learned & Implemented Firebase 🔥
+- Completed 90% of Project 💎
+- Fixed major bugs in code 🔨
+
+💡 LEARNING : have a documen for youserlf for implementing X in code 
+
+  
+> today was a great day i saw firebase after a lot time, i tried to understand firebase concept using my old docs i realize having document is imp for understanding, moreover i felt happy that solving that bug , i did create, and read operating using firebase firestore, soon ill post the project, i did from afternoon till night!
+
