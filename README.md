@@ -7,13 +7,13 @@
 - 🧩 Project : https://emojigifts.netlify.app/
 
 
+
+
 ### 🧑‍💻Day 2 
 
-- Created admin panel using  PHP🐘
-
-- Learned about how to create special user like admin and give rights and all! 
-
-- php is funnnn 
+- Created Admin Panel using PHP
+- Learned to Create Special user and give them rights
+- Felt Php is fun sometimes
 
 ### 🧑‍💻Day 3 
 
