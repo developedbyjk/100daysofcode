@@ -36,3 +36,14 @@
   
 > today was a great day i saw firebase after a lot time, i tried to understand firebase concept using my old docs i realize having document is imp for understanding, moreover i felt happy that solving that bug , i did create, and read operating using firebase firestore, soon ill post the project, i did from afternoon till night!
 
+### 🧑‍💻 Day 6
+
+- Completed 90% of Task ✅
+- Learned Animating Css Images 📷
+- Leared Working with Flexbox 📒
+
+💡 LEARNING : need to have proper plan for doing projects
+
+> today i started with one project and then shift to another.I realize it is imp to have a premade schedule for doing project, today i learned new flexbox style for images and created beautiful travel images, also i did some margins and adjusting styles with flex box, created a cool graphic that i am gonna soon update in this simple portfolio project. it was great day i drank lot of water and ate gola at night! ahhh way an awesome day. also i got deep sleep in noon! 
+ 
+
