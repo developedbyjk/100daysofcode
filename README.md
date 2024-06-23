@@ -46,4 +46,13 @@
 
 > today i started with one project and then shift to another.I realize it is imp to have a premade schedule for doing project, today i learned new flexbox style for images and created beautiful travel images, also i did some margins and adjusting styles with flex box, created a cool graphic that i am gonna soon update in this simple portfolio project. it was great day i drank lot of water and ate gola at night! ahhh way an awesome day. also i got deep sleep in noon! 
  
+### 🧑‍💻 Day 7
 
+- Worked on a Design Task 🎇
+- Created Admin Panel for site 🤠
+- Firebase Databse & rules 🔥
+
+💡 LEARNING : How Admin site work
+💡 LEARNING : Proper Planning is imp
+
+> i realize that when we sit for code. its important that we focus on code only, doing one thing at a time, here and there work just distract you, also you should have proper plan for doing x project, remeber you dont day dont start when you wake up but it start before you sleep, 
