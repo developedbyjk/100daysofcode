@@ -43,7 +43,24 @@
 > today was a great day i saw firebase after a lot time, i tried to understand firebase concept using my old docs i realize having document is imp for understanding, moreover i felt happy that solving that bug , i did create, and read operating using firebase firestore, soon ill post the project, i did from afternoon till night!
 
 
+### 🧑‍💻Day 4 
 
+- 🗺️ Learned about HTML5 new features
+- 🌍 Implemented Geolocation API in Project 
+- 🔗 Link to Project : https://whereiam.netlify.app/
+
+
+### 🧑‍💻Day 3 
+
+- ⚡ I Learn how to create Landing Page and design landing page for my project
+
+
+
+### 🧑‍💻Day 2 
+
+- Created Admin Panel using PHP
+- Learned to Create Special user and give them rights
+- Felt Php is fun sometimes
 
 
 ### 🧑‍💻Day 1 
@@ -54,20 +71,10 @@
 
 
 
-### 🧑‍💻Day 2 
 
-- Created Admin Panel using PHP
-- Learned to Create Special user and give them rights
-- Felt Php is fun sometimes
 
-### 🧑‍💻Day 3 
 
-- ⚡ I Learn how to create Landing Page and design landing page for my project
 
-### 🧑‍💻Day 4 
 
-- 🗺️ Learned about HTML5 new features
-- 🌍 Implemented Geolocation API in Project 
-- 🔗 Link to Project : https://whereiam.netlify.app/
 
 
