@@ -1,6 +1,13 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
 
+### 🧑‍💻 Day 8
+
+- I Revised React ⚛️
+- Created Card Project view for Portfoli 💼
+- Fight with new errors 🐞
+
+
 ### 🧑‍💻Day 1 
 
 - 🧠 Learning : How to change React State and manage it
@@ -58,8 +65,3 @@
 > i realize that when we sit for code. its important that we focus on code only, doing one thing at a time, here and there work just distract you, also you should have proper plan for doing x project, remeber you dont day dont start when you wake up but it start before you sleep,
 
 
-### 🧑‍💻 Day 8
-
-- I Revised React ⚛️
-- Created Card Project view for Portfoli 💼
-- Fight with new errors 🐞
