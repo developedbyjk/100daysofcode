@@ -1,6 +1,14 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
+### Day 9 
 
+- I Learned Props in React ⚛️
+- Created Desktop Vesrion for app 💻
+- Learned about design principles ♎
+
+   💡 LEARNING : Using props in efficient way
+   💡 LEARNING : Social & Communication
+   💡 LEARNING : Importance of Language 
 
 ### 🧑‍💻 Day 8
 
