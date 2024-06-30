@@ -4,8 +4,9 @@
 - Practiced React Props ⚛️
 - Learned More on React State 🤖
 - Array Methos in JavaScript 🫳
+  
 
-    💡 LEARNING : Fundametal Foundation really worth it
+💡 LEARNING : Fundametal Foundation really worth it
 
 > Today i posted 'My Wins of the Week' on dev.to there i found that how planning is important and how cheching helps to understand ke kitna pani me ho tum! Learned React and some JS went with friends enjoyed the sunday boom
 
@@ -15,6 +16,7 @@
 - I Learned Props in React ⚛️
 - Created Desktop Vesrion for app 💻
 - Learned about design principles ♎
+
 
    💡 LEARNING : Using props in efficient way
    💡 LEARNING : Social & Communication
