@@ -1,4 +1,14 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
+### Day 10
+
+- Practiced React Props ⚛️
+- Learned More on React State 🤖
+- Array Methos in JavaScript 🫳
+
+    💡 LEARNING : Fundametal Foundation really worth it
+
+> Today i posted 'My Wins of the Week' on dev.to there i found that how planning is important and how cheching helps to understand ke kitna pani me ho tum! Learned React and some JS went with friends enjoyed the sunday boom
+
 
 ### Day 9 
 
