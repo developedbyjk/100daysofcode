@@ -1,5 +1,15 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
+### 🧑‍💻 Day 12
+
+- Send & Receive Data between Parent Chil in React ⚛️
+- React Object & Array Modification ⚙️
+- Completed Project Section in Portfolio 💼
+
+💡 LEARNING : You have to do it alone anyway
+💡 LEARNING : Quality >>>>>>>>>>>> Quantity
+
+> Morning went with adding Project Section in Potfolio, Did Some Learning in Noon, React in Evening! 
 
 ### 🧑‍💻  Day 11
 - Practice React State & Props ⚛️
