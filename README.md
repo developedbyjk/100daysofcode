@@ -1,14 +1,14 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
 
-### Day 11
+### 🧑‍💻  Day 11
 - Practice React State & Props ⚛️
 - Worked on a Task ✅
 - Created a Project 🧩
 
 > Project link : https://jkcake.netlify.app/
 
-### Day 10
+### 🧑‍💻  Day 10
 
 - Practiced React Props ⚛️
 - Learned More on React State 🤖
@@ -20,7 +20,7 @@
 > Today i posted 'My Wins of the Week' on dev.to there i found that how planning is important and how cheching helps to understand ke kitna pani me ho tum! Learned React and some JS went with friends enjoyed the sunday boom
 
 
-### Day 9 
+### 🧑‍💻  Day 9 
 
 - I Learned Props in React ⚛️
 - Created Desktop Vesrion for app 💻
