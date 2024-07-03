@@ -1,5 +1,11 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
+### 🧑‍💻 Day 13
+- Added About & Skill section in Portfolio ⚛️
+- Learned React Forms 🧩
+- Complted a Task ✅
+
+
 ### 🧑‍💻 Day 12
 
 - Send & Receive Data between Parent Chil in React ⚛️
