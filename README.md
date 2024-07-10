@@ -1,5 +1,12 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
+### 🧑‍💻 Day 16 (10/07/24)
+- Learned about React ⚛️
+- Created a meme project in react 😉 
+- Learned about implementing firebase in react 🔥
+
+
+
 ### 🧑‍💻 Day 15
 - ✅ Completed a react project !  took 3 days! it ⚛️
 - Learned about libraries in react! 📚
