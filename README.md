@@ -1,6 +1,6 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
-### 🧑‍💻 Day 17 (10/07/24)
+### 🧑‍💻 Day 17 (13/07/24)
 - Learned about Framer motion ❇️
 - Impletd Framer motion with Next JS ⚡
 - Added a feature in portfolio 🧪
