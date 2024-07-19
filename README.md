@@ -1,6 +1,12 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
 
+### 🧑‍💻 Day 19 (19/07/24)
+
+- Worked on a Project ❇️
+- Practiced Router ⚛️
+- Completed a Project 💾
+
 ### 🧑‍💻 Day 18 (16/07/24)
 - Completed a Project ❇️
 - Learned React ⚛️
