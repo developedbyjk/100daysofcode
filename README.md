@@ -1,5 +1,11 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
+### 🧑‍💻 Day 21 (26/07/24)
+
+- Fix Problem in a Project ⌛✨
+- Worked on a Project 🧑‍💻
+- Learned a JS 🌱
+
 
 ### 🧑‍💻 Day 20 (24/07/24)
 
