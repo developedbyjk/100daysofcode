@@ -1,5 +1,12 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
+### 🧑‍💻 Day 22 (30/07/24)
+
+- Worked on React Meme Project 🧑‍💻
+- Learned about Packages 📦
+- Worked with git 😺
+
+
 ### 🧑‍💻 Day 21 (26/07/24)
 
 - Fix Problem in a Project ⌛✨
