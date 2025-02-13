@@ -1,5 +1,7 @@
 ![100daysofcode](https://github.com/developedbyjk/100daysofcode/assets/71823598/1b5a9ac2-5d21-4fe3-a1f1-30abcb4f2d69)
 
+🥲BAd Luck
+
 ### 🧑‍💻 Day 23 (31/07/24)
 
 - Learned Type Script 💪
